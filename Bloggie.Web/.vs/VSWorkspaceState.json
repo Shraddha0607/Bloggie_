@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "\\Controllers",
+    "\\Models",
+    "\\Models\\Domain",
+    "\\Models\\ViewModels",
+    "\\Views",
+    "\\Views\\Account",
+    "\\Views\\AdminTags"
+  ],
+  "PreviewInSolutionExplorer": false
+}
